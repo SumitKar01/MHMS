@@ -1,0 +1,18 @@
+Common Cold
+Coughing
+Cough Test
+3
+Sumit Kumar Kar
+01829786828
+Allergy
+Redness in Skin
+Allergy Test
+7
+Sumit Kumar Kar
+01829786828
+Fever
+High Temperature
+Temperature
+3
+Sumit Kumar Kar
+01829786828
